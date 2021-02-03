@@ -4,3 +4,4 @@ John Korhel
 Caroline Chang
 Matthew Zarifa
 Omar Dajani.
+Connor Liu
