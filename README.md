@@ -3,4 +3,4 @@ Project Team Members
 John Korhel
 Caroline Chang
 Matthew Zarifa
-Omar Dajani
+Omar Dajani.
